@@ -1,0 +1,6 @@
+{
+  "name": "ApexPosture",
+  "description": "4-Day Bodyweight Upper Chest & Anterior Pelvic Tilt Correction Workout Planner & Live Tracker",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
